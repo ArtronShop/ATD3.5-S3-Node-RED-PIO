@@ -1,0 +1,16 @@
+{
+  "codename": "th28",
+  "ttf_path": "/assets/Kanit-Regular.ttf",
+  "bin_path": "/assets\\ui_font_th28.bin",
+  "c_path": "/assets\\ui_font_th28.c",
+  "cfg_path": "/assets\\ui_font_th28.fcfg",
+  "size": 28,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x0E00-0x0E7F"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
